@@ -21,7 +21,6 @@ hs_err_pid*
 .recommenders/
 
 .metadata
-bin/
 tmp/
 *.tmp
 *.bak
