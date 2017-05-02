@@ -3,7 +3,6 @@
 *.swp
 
 # Archivos Java empaquetados #
-*.jar
 *.war
 *.ear
 
@@ -21,7 +20,6 @@ hs_err_pid*
 .recommenders/
 
 .metadata
-bin/
 tmp/
 *.tmp
 *.bak
