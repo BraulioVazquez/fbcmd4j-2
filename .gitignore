@@ -3,7 +3,6 @@
 *.swp
 
 # Archivos Java empaquetados #
-*.jar
 *.war
 *.ear
 
